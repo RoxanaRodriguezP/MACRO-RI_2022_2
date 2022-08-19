@@ -2,5 +2,5 @@
 Fundamentos de macroeconomía
 List of students
 1. Carla
-2.Camilo
+2. Camilo
 3. Valerie
